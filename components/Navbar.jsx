@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="navbar-container">
       <p className="logo">
         <Link href="/" style={{ textDecoration: "none", color: "gray" }}>
-          ONAN TECH
+          Mechapedia
         </Link>
       </p>
 

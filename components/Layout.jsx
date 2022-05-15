@@ -6,7 +6,7 @@ const Layout = ({ children }) => {
   return (
     <div className="layout">
       <Head>
-        <title>Onan Tech</title>
+        <title>Mechapedia</title>
       </Head>
       <header>
         <Navbar />
