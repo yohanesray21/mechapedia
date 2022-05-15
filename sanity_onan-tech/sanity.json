@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "onan-tech"
+    "name": "mechapedia"
   },
   "api": {
     "projectId": "5eepvjgy",
@@ -15,9 +15,7 @@
   ],
   "env": {
     "development": {
-      "plugins": [
-        "@sanity/vision"
-      ]
+      "plugins": ["@sanity/vision"]
     }
   },
   "parts": [

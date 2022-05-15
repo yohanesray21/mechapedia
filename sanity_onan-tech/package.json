@@ -1,5 +1,5 @@
 {
-  "name": "onan-tech",
+  "name": "mechapedia",
   "private": true,
   "version": "1.0.0",
   "description": "",
@@ -30,6 +30,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git@github.com:yohanesray21/onan-tech.git"
+    "url": "git@github.com:yohanesray21/mechapedia.git"
   }
 }
